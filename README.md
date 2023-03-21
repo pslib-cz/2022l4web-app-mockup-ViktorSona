@@ -1,5 +1,5 @@
 # HYDRO - Water reminder
-Aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým uživatelům pomáhá sledovat jejich denní příjem vody. Upozorněními jim pžipomíná, že mají pít vodu po celý den a ve sporávném množství.
+Aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým uživatelům pomáhá sledovat jejich denní příjem vody. Je to jednoduchý, ale výkonný nástroj, který pomáhá uživatelům zůstat hydratovaní a zdraví. Poskytováním personalizovaných doporučení a připomenutí umožňuje aplikace uživatelům snadno udržovat konzistentní a zdravý příjem vody po celý den.
 ## Funkce
 ### Upozornění
 Aplikace odesílá upozornění po celý den, aby uživatelům připomněla, že by se měli napít vody.
