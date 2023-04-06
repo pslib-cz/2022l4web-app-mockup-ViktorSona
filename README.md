@@ -1,3 +1,5 @@
+# Figma link
+https://www.figma.com/file/P4bnFGmb225qNuZm2sQ1Up/Mockup-App?node-id=0%3A1&t=OBkZ843qyQ4MbSZx-1
 # HYDRO - Water reminder
 Aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým uživatelům pomáhá sledovat jejich denní příjem vody. Je to jednoduchý, ale výkonný nástroj, který pomáhá uživatelům zůstat hydratovaní a zdraví. Poskytováním personalizovaných doporučení a připomenutí umožňuje aplikace uživatelům snadno udržovat konzistentní a zdravý příjem vody po celý den.
 ## Funkce
