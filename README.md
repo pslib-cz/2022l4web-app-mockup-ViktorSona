@@ -27,12 +27,22 @@ Menu obsahuje jednotlivé části aplikace a přepínání jazyku aplikace mezi 
 
 Funkce statistik přináší uživateli detailnější pohled na jeho příjem tekutin. V horní části může přepínat mezi jednotlivými časovými obdobími. Navíc je zde zobrazeno procentuální splnění cíle a procentuální zastoupení různých druhů nápojů v celkovém příjmu tekutin. Pro lepší orientaci je každá tekutina označena tečkou své barvy.
 ### Denní cíl
+![Daily goal](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/daily_goal.png)
+
 Zde si uživatel nastaví svůj denní cíl množství příjmu tekutin. Nastavení denního cíle je nutné pro celé fungování aplikace, tudíž je vyžádáno na začátku používání aplikace.
 ### Historie příjmu tekutin
+![History](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/history.png)
+
 Část aplikace, ve které má uživatel možnost spravovat, procházet a editovat své příjmy tekutin v jednotlivých dnech. Po kliknutí na šipku dolů se rozbalí kalendář a uživatel si může vybrat, z jakého data si chce záznamy prohlédnout. Historie je rozdělena do třech sloupců: čas, druh nápoje a jeho množství. Druh nápoje je opět pro lepší orientaci označen svou barvou. U každého záznamu jsou ikony pro editování nebo úplné smazání příjmu.
 ### Doporučení
+![Recommendation](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/recommendation.png)
+
 V této části aplikace uživateli zobrazuje výpočítanou hodnotu množství denního příjmu tekutin. Hodnota je vypočítána na základě pohlaví, výšky a váhy uživatele. Uživateli je doporučeno se tímto udájem řídit. Ve spodní části obrazovky je varování co by mohlo nastat, pokud by se podle doporučení neřídil a taky informace o optimálním množství tekutin na kilogram dospělého člověka.
 ### Žebříček
+![Leaderboard](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/leaderboard.png)
+
 Po propojení aplikace s aplikací Facebook se uživateli zobrazí přátelé, kteří HYDRO používají. Žebříček je seřazen podle délky série dnů, při kterých přátelé dodrželi správný pitný režim bez vynechání nebo porušení. První tři místa jsou zobrazeny na stupních vítězů a vítěz je ozdoben korunkou. Místo v pořadí uživatele je zvýrazněno pro lepší orientaci v žebříčku. Žebříček se automaticky aktualizuje každý den. Pořadí v žebříčku lze sdílet pomocí ikony v pravém horním rohu obrazovky.
 ### Přizpůsobení připomenutí
+![Notifications](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/notifications.png)
+
 Uživatel si může pomocí přepínače zapnout nebo vypnout připomenutí o tom, že by se měl napít. Pokud si připomení zapne, může si nastavit jak často je bude dostávat. V případě že uživatel dodržuje pravidelný jídelníček nebo jiné rutiny, tedy i pravidelně pije větší množství tekutin, má možnost si nastavit připomenutí v určitých časech. Tyto nastavení lze přidávat, upravovat nebo mazat podle potřeby.
