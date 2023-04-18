@@ -5,7 +5,7 @@ Mobilní aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým
 ## Prvky a funkce aplikace
 ### Přihlášení
 
-!(image/login.png)
+!(https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/login.png)
 
 Jako první se po otevření aplikace zobrazí standardní přihlašovací stránka. Ta obsahuje logo, uvítací text a pole pro vyplnění přihlašovacích údajů. Nechybí zde funkce jako jsou ukazatel správnosti emailu, skrytí a odkrytí hesla nebo zapamatování uživatele. Pokud uživatel nemá založený účet, přesune se tlačítkem "SIGN UP" do části vytváření účtu. Vytvořit účet lze skrze vyplnění běžných přihlašovacích údajů, ale i skrze Apple ID, Google account nebo Facebook.
 ### Záznam příjmu tekutin
