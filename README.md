@@ -4,7 +4,8 @@ Celý návrh aplikace byl tvořen ve Figmě. [Odkaz pro zobrazení návrhu](http
 Mobilní aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým uživatelům pomáhá sledovat jejich denní příjem tekutin. Je to jednoduchý, ale užitečný nástroj, který přispívá k lepšímu zdravotnímu stylu svých uživatelů. Poskytováním personalizovaných doporučení a připomenutí umožňuje aplikace uživatelům snadno udržovat konzistentní příjem vody po celý den.
 ## Prvky a funkce aplikace
 ### Přihlášení
-![Login(./image/login.png)
+
+!(image/login.png)
 
 Jako první se po otevření aplikace zobrazí standardní přihlašovací stránka. Ta obsahuje logo, uvítací text a pole pro vyplnění přihlašovacích údajů. Nechybí zde funkce jako jsou ukazatel správnosti emailu, skrytí a odkrytí hesla nebo zapamatování uživatele. Pokud uživatel nemá založený účet, přesune se tlačítkem "SIGN UP" do části vytváření účtu. Vytvořit účet lze skrze vyplnění běžných přihlašovacích údajů, ale i skrze Apple ID, Google account nebo Facebook.
 ### Záznam příjmu tekutin
