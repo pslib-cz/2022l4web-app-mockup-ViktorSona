@@ -1,5 +1,5 @@
 # FIGMA link
-Celý návrh aplikace byl tvořen v programu Figma. ["Link"](https://www.figma.com/file/P4bnFGmb225qNuZm2sQ1Up/Mockup-App?node-id=0%3A1&t=OBkZ843qyQ4MbSZx-1)
+Celý návrh aplikace byl tvořen ve Figmě. [Odkaz pro zobrazení návrhu](https://www.figma.com/file/P4bnFGmb225qNuZm2sQ1Up/Mockup-App?node-id=0%3A1&t=OBkZ843qyQ4MbSZx-1)
 # HYDRO - Water reminder
 Mobilní aplikace "HYDRO - Water reminder" je jednoduchá aplikace, která svým uživatelům pomáhá sledovat jejich denní příjem tekutin. Je to jednoduchý, ale užitečný nástroj, který přispívá k lepšímu zdravotnímu stylu svých uživatelů. Poskytováním personalizovaných doporučení a připomenutí umožňuje aplikace uživatelům snadno udržovat konzistentní příjem vody po celý den.
 ## Prvky a funkce aplikace
