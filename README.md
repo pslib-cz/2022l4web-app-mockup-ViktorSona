@@ -45,4 +45,4 @@ Po propojení aplikace s aplikací Facebook se uživateli zobrazí přátelé, k
 ### Přizpůsobení připomenutí
 ![Notifications](https://github.com/pslib-cz/2022l4web-app-mockup-ViktorSona/blob/main/image/notifications.png)
 
-Uživatel si může pomocí přepínače zapnout nebo vypnout připomenutí o tom, že by se měl napít. Pokud si připomení zapne, může si nastavit jak často je bude dostávat. V případě že uživatel dodržuje pravidelný jídelníček nebo jiné rutiny, tedy i pravidelně pije větší množství tekutin, má možnost si nastavit připomenutí v určitých časech. Tyto nastavení lze přidávat, upravovat nebo mazat podle potřeby.
+Uživatel si může pomocí přepínače zapnout nebo vypnout připomenutí o tom, že by se měl napít. Pokud si připomenutí zapne, může si nastavit jak často je bude dostávat. V případě že uživatel dodržuje pravidelný jídelníček nebo jiné rutiny, tedy i pravidelně pije větší množství tekutin, má možnost si nastavit připomenutí v určitých časech. Tyto nastavení lze přidávat, upravovat nebo mazat podle potřeby.
